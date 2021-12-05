@@ -50,7 +50,7 @@ The default just shows the date but you can customize these entries to show any 
 message, the banner will not show for that day.
 
 The JSON format is as follows:
-
+```
 [
   [
     "The 1st of January",
@@ -68,7 +68,7 @@ The JSON format is as follows:
   ],
   ...
 ]
-   
+```
 Where ... means mode code that has been removed to make the sample smaller.
 
 ## Persistence
